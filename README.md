@@ -1,54 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Allen Gerald Tresvalles | Web Developer</title>
-    <link rel="stylesheet" href="styles.css">
-    <script defer src="script.js"></script>
-</head>
-<body>
+# Portfolio of Allen Gerald Tresvalles 
 
-    <header>
-        <h1>👋 Hi, I'm Allen Gerald Tresvalles</h1>
-        <p>💻 Web Developer | 🎮 Mobile Legends Player | 🏐 Volleyball Enthusiast</p>
-        <a href="#contact" class="btn">Contact Me</a>
-    </header>
+Welcome to my personal portfolio! This website showcases my skills as a **Web Developer** and provides information about my projects, interests, and contact details.
 
-    <section id="about">
-        <h2>About Me</h2>
-        <p>Hi! I'm <strong>Allen Gerald Tresvalles</strong>, a **3rd-year BSIT student** at <strong>Binalatongan Community College</strong>. I’m passionate about **web development** and love building clean, responsive websites.  
-        Outside of coding, I enjoy **playing Mobile Legends** and competing in **volleyball tournaments**.</p>
-    </section>
+## Table of Contents
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Contact](#contact)
 
-    <section id="skills">
-        <h2>My Skills</h2>
-        <div class="skills-list">
-            <span>HTML</span>
-            <span>CSS</span>
-            <span>JavaScript</span>
-            <span>Responsive Design</span>
-            <span>GitHub</span>
-        </div>
-    </section>
+## About Me
+Hi, I'm **Allen Tresvalles**, a passionate **Web Developer**, **Mobile Legends Player**, and **Volleyball Enthusiast**. I enjoy building websites and improving my skills in **HTML**, **CSS**, **JavaScript**, and other web technologies.
 
-    <section id="projects">
-        <h2>My Projects</h2>
-        <div class="project">
-            <h3>Portfolio Website</h3>
-            <p>A personal website to showcase my skills and projects.</p>
-            <a href="https://allenTresvalles.github.io/" target="_blank">View Project</a>
-        </div>
-    </section>
+## Skills
+- **Web Development**: HTML, CSS, JavaScript
+- **Backend Development**: Learning Java
+- **Mobile Legends**: Support Role (Estes)
+- **Volleyball**: Spiker
 
-    <section id="contact">
-        <h2>Contact Me</h2>
-        <p>Email: <a href="mailto:allentresvalles6@gmail.com">allentresvalles6@gmail.com</a></p>
-    </section>
+## Projects
+- **Portfolio Website**: A simple portfolio website hosted on GitHub Pages.
+- **JavaScript Projects**: Various small JavaScript applications showcasing my learning.
+- **Mobile Legends Tournament**: Participated in local tournaments.
 
-    <footer>
-        <p>© 2025 Allen Gerald Tresvalles. All rights reserved.</p>
-    </footer>
-
-</body>
-</html>
+## Contact
+You can reach me via email at: [allentresvalles6@gmail.com](mailto:allentresvalles6@gmail.com)
